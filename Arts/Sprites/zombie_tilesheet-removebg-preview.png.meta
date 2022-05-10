@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 96c36c27900a44643be6c27d87a037b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2684396850355229132
+    second: zombie_tilesheet-removebg-preview_0
+  - first:
+      213: -2711329036595825552
+    second: zombie_tilesheet-removebg-preview_1
+  - first:
+      213: 4136638185715381054
+    second: zombie_tilesheet-removebg-preview_2
+  - first:
+      213: 7221547000763425501
+    second: zombie_tilesheet-removebg-preview_3
+  - first:
+      213: -7791520260969215481
+    second: zombie_tilesheet-removebg-preview_4
+  - first:
+      213: 1683218767615336603
+    second: zombie_tilesheet-removebg-preview_5
+  - first:
+      213: 5440237770375839700
+    second: zombie_tilesheet-removebg-preview_6
+  - first:
+      213: -86207181135596818
+    second: zombie_tilesheet-removebg-preview_7
+  - first:
+      213: 156115837434528395
+    second: zombie_tilesheet-removebg-preview_8
+  - first:
+      213: -2642379073477033717
+    second: zombie_tilesheet-removebg-preview_9
+  - first:
+      213: 5753662263651052435
+    second: zombie_tilesheet-removebg-preview_10
+  - first:
+      213: -674378326632834657
+    second: zombie_tilesheet-removebg-preview_11
+  - first:
+      213: 3570645373853118666
+    second: zombie_tilesheet-removebg-preview_12
+  - first:
+      213: 6227641441853370374
+    second: zombie_tilesheet-removebg-preview_13
+  - first:
+      213: 6185685735426125457
+    second: zombie_tilesheet-removebg-preview_14
+  - first:
+      213: 5265391738379994888
+    second: zombie_tilesheet-removebg-preview_15
+  - first:
+      213: 5849173722573823337
+    second: zombie_tilesheet-removebg-preview_16
+  - first:
+      213: -2830515569987780641
+    second: zombie_tilesheet-removebg-preview_17
+  - first:
+      213: 2863573324877183696
+    second: zombie_tilesheet-removebg-preview_18
+  - first:
+      213: -673149208713726650
+    second: zombie_tilesheet-removebg-preview_19
+  - first:
+      213: -7696313402293814852
+    second: zombie_tilesheet-removebg-preview_20
+  - first:
+      213: -1291671884319884006
+    second: zombie_tilesheet-removebg-preview_21
+  - first:
+      213: -247422319509360381
+    second: zombie_tilesheet-removebg-preview_22
+  - first:
+      213: -4822399993803531829
+    second: zombie_tilesheet-removebg-preview_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2662894b1fbad0800000000000000
+      internalID: -2684396850355229132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f0804b9c6f5ad0800000000000000
+      internalID: -2711329036595825552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b1e7538a486930800000000000000
+      internalID: 4136638185715381054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2aa4d5cb6183460800000000000000
+      internalID: 7221547000763425501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70acba89a95fed390800000000000000
+      internalID: -7791520260969215481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90abf21d8efb5710800000000000000
+      internalID: 1683218767615336603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3ae4bd6b9f7b40800000000000000
+      internalID: 5440237770375839700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23357860bbdcef0800000000000000
+      internalID: -86207181135596818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 220
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82091ae682aa2200800000000000000
+      internalID: 156115837434528395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c97b8b32645bd0800000000000000
+      internalID: -2642379073477033717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bad76385d19df40800000000000000
+      internalID: 5753662263651052435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d3d42c7024a6f0800000000000000
+      internalID: -674378326632834657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03867ac0b7d8130800000000000000
+      internalID: 3570645373853118666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fb2a55e60d6650800000000000000
+      internalID: 6227641441853370374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e66483768f7d550800000000000000
+      internalID: 6185685735426125457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078a6983ed621940800000000000000
+      internalID: 5265391738379994888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ddf8ba2807c2150800000000000000
+      internalID: 5849173722573823337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 110
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7aa7f51df7b8d0800000000000000
+      internalID: -2830515569987780641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab69164c47db720800000000000000
+      internalID: 2863573324877183696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64578c57c5e78a6f0800000000000000
+      internalID: -673149208713726650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f238ccb3313590800000000000000
+      internalID: -7696313402293814852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df0c8c34f031ee0800000000000000
+      internalID: -1291671884319884006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301342816baf09cf0800000000000000
+      internalID: -247422319509360381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombie_tilesheet-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99e7c71c4631db0800000000000000
+      internalID: -4822399993803531829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
